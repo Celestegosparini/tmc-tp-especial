@@ -1,2 +1,2 @@
 # tmc-tp-especial
-trabajo espacia de Matemática Computacional
+trabajo especial de Matemática Computacional
